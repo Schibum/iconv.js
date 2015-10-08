@@ -1,0 +1,22 @@
+{
+  "name": "iconv.js",
+  "version": "0.1.0",
+  "description": "libiconv compiled to javascript",
+  "main": "iconv.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schibum/iconv.js.git"
+  },
+  "author": "mb@w69b.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Schibum/iconv.js/issues"
+  },
+  "homepage": "https://github.com/Schibum/iconv.js#readme"
+}
